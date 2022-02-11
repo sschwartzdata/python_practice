@@ -28,4 +28,4 @@ phone_number_finder.py is a script that will look in in all of the files in a di
 
 Skills demonstrated:
 * os.walk
-* Regular Expressiong / REGEX
+* Regular Expression / REGEX
